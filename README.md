@@ -1,6 +1,6 @@
 ## Christian BAKOUMA
-### Je suis étudiant en Bachelor informatique chez Epitech Nancy
-### Orientation de poste : Developpeur full stack/ Data analyste jr
+Je suis étudiant en Bachelor informatique chez Epitech Nancy 🎓
+Orientation de poste : Developpeur full stack 🌐/ Data analyste jr 📈
 
 <!--
 **chrix47/chrix47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
